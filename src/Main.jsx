@@ -32,7 +32,7 @@ export default function Main(){
                     <div className="AboutPara">
                         <div className="AboutPara1">
                             <div>
-                                <p>Hello! I'm <span>Kaushik</span>, from <span>Shimla</span>, is known for its weather and tourist attraction.</p>
+                                <p>Hello! I'm <span>Kaushik</span>, from <span>Kalimpong</span>, is known for its weather and tourist attraction.</p>
                                 <p>I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.</p>
                                 <p></p>
                                 <p>I have successfully achieved <span>63.98%</span> in <span>B.tech</span> (Mechanical)(<span>2021</span>), paving the way for a <span>bright future</span>.</p>
